@@ -6,10 +6,11 @@
   <meta name="viewport" content="width=device-width">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-
   <title>Pantau Penyebaran Corona Virus (Covid-19)</title>
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  
 </head>
+  
 <body>
   <div class="jumbotron jumbotron-fluid bg-danger text-white">
     <div class="container text-center">
@@ -116,7 +117,7 @@
 <!--akhir cotainer-->
 
 <footer class="bg-danger text-center text-white mt-3 bt-2 pb-2">
-  Copyright By : Insan.m.s
+  Copyright By : Insan Muchtadi Syafiq
 </footer>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
