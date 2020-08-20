@@ -1,0 +1,20 @@
+.row::after {
+    clear: both;
+    display: block;
+}
+.footer{
+	  height:90px;
+}
+.container{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+@media(max-width: 768px)
+{
+	
+	.jumbotron{
+		  background-size: cover;
+		  height: 200%;
+	}
+}
